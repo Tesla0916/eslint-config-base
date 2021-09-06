@@ -1,5 +1,5 @@
 {
-  "name": "eslint-config-base",
+  "name": "@tesla/eslint-config-base",
   "version": "1.0.0",
   "description": "basic eslint config for typescript project",
   "main": "index.js",
